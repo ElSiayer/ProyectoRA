@@ -1,7 +1,10 @@
 # ProyectoRa
 Este repositorio contienen el código del juego de realidad aumentada realizado para la materia de Ingeniería web.
+
 Nombre : Juan Simbaña
+
 Correo: jf.simba.97@hotmail.com
+
 GitHub link: https://github.com/ElSiayer/ProyectoRa
 
 
@@ -13,4 +16,5 @@ mediante un joystick y tendran un efecto de  muerte si colicinan el personaje qu
 Herramientas:
 
  -Unity: https://unity3d.com/es/get-unity/download
+ 
  -Vuforia: https://developer.vuforia.com/downloads/sdk
