@@ -10,7 +10,7 @@ GitHub link: https://github.com/ElSiayer/ProyectoRa
 
 Descripción:
 Se realizó un juego en Unity con la herramienta vuforea el cual es un escenario simple con 4 personajes, se puede interactuar con uno de ellos
-mediante un joystick y tendran un efecto de  muerte si colicinan el personaje que se mueve con los otros.
+mediante un joystick y tendran un efecto de  muerte si colisionan el personaje que se mueve con los otros.
 
 
 Herramientas:
